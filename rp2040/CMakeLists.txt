@@ -19,7 +19,7 @@ set(SECOND_SEGMENT_REVERSED ON)
 set(OUTPUT_SPI_DATA_PIN 4)
 set(OUTPUT_SPI_CLOCK_PIN 2)
 set(OUTPUT_SPI_CHIP_SELECT 5)
-set(OUTPUT_SPI_INTERFACE spi1)
+set(OUTPUT_SPI_INTERFACE spi0)
 
 # User configuration section ends here
 # Usually you don't need to change anything below this section
